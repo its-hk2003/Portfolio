@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="villageinindia.com">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#bfe6fb"/>
+      <stop offset="1" stop-color="#a9dcf7"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="400" fill="url(#sky)"/>
+  <rect width="640" height="54" fill="#0d1b2a"/>
+  <circle cx="34" cy="27" r="13" fill="#e2703a"/>
+  <text x="56" y="33" font-family="'Space Grotesk',system-ui,sans-serif" font-size="16" font-weight="700" fill="#ffffff">Village</text>
+  <text x="122" y="33" font-family="system-ui,sans-serif" font-size="13" fill="#9fb3c8">in india</text>
+
+  <text x="40" y="132" font-family="'Space Grotesk',system-ui,sans-serif" font-size="40" font-weight="700" fill="#d62828">Villages in India</text>
+  <rect x="40" y="156" width="330" height="9" rx="4.5" fill="#1b3a4b" opacity=".38"/>
+  <rect x="40" y="176" width="288" height="9" rx="4.5" fill="#1b3a4b" opacity=".38"/>
+  <rect x="40" y="196" width="220" height="9" rx="4.5" fill="#1b3a4b" opacity=".38"/>
+  <rect x="40" y="226" width="150" height="38" rx="6" fill="#d62828"/>
+  <text x="115" y="250" text-anchor="middle" font-family="system-ui,sans-serif" font-size="14" fill="#ffffff">Browse all states</text>
+
+  <g fill="#ffffff" opacity=".62">
+    <rect x="40" y="296" width="172" height="76" rx="10"/>
+    <rect x="234" y="296" width="172" height="76" rx="10"/>
+    <rect x="428" y="296" width="172" height="76" rx="10"/>
+  </g>
+  <g font-family="'Space Grotesk',system-ui,sans-serif" font-size="17" font-weight="600" fill="#0d1b2a">
+    <text x="58" y="326">590,364</text>
+    <text x="252" y="326">5,676</text>
+    <text x="446" y="326">656</text>
+  </g>
+  <g font-family="system-ui,sans-serif" font-size="12" fill="#3f5566">
+    <text x="58" y="348">villages</text>
+    <text x="252" y="348">tehsils</text>
+    <text x="446" y="348">districts</text>
+  </g>
+
+  <g opacity=".9">
+    <rect x="428" y="88" width="172" height="172" rx="10" fill="#ffffff" opacity=".55"/>
+    <g fill="#0d1b2a" opacity=".42">
+      <circle cx="470" cy="128" r="4"/><circle cx="502" cy="146" r="4"/><circle cx="486" cy="176" r="4"/>
+      <circle cx="528" cy="120" r="4"/><circle cx="548" cy="162" r="4"/><circle cx="512" cy="204" r="4"/>
+      <circle cx="466" cy="212" r="4"/><circle cx="552" cy="212" r="4"/><circle cx="498" cy="236" r="4"/>
+    </g>
+    <path d="M470 128 L502 146 L528 120 M502 146 L486 176 L512 204 M486 176 L466 212 M548 162 L552 212 L512 204 L498 236"
+          stroke="#0d1b2a" stroke-opacity=".22" stroke-width="1.6" fill="none"/>
+  </g>
+</svg>
